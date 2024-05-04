@@ -1,0 +1,45 @@
+.logo{
+    padding-right: 30px;
+    /* display: inline; */
+    /* float: left; */
+    /* float: inline-start; */
+    /* position: relative; */
+
+    
+
+}
+
+.search{
+    /* display: inline;
+    float: left; */
+    /* position: absolute; */
+}
+
+.spaceHeader{
+    margin-right: 700px;
+}
+.mobileSpace{
+    padding-right: 30px;
+}
+
+.header{
+    float: top;
+    /* background-color: rgb(233, 229, 229); */
+    /* float: left; */
+    /* position: sticky; */
+    /* z-index: -2; */
+
+}
+.mobile-sidebar-button{
+    position: absolute;
+    float: left;
+    margin-top: -300px;
+}
+.removeunderline{
+    text-decoration: none;
+
+}
+.search-icon{
+    position: relative;
+    top: 6px;
+}

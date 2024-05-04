@@ -15,4 +15,4 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 ---
 
-_Made with ☕️ by HiteshChoudhary_
+_Made with ☕️ by AmanKumar_
